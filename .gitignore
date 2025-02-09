@@ -1,0 +1,23 @@
+.vscode
+Course Library
+Scenes
+Settings
+TutorialInfo
+InputSystem_Actions.inputactions
+scripts/*
+!scripts/*.cs
+Assets/Scripts/*.cs.meta
+Assets/*.meta
+Assets/Readme.asset
+Library
+Logs
+Packages
+ProjectSettings
+Prototype-3.sln
+Temp/
+UserSettings
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
+Challenge 1
+*.prefab
+*.prefab.meta
